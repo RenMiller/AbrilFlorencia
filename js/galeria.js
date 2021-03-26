@@ -3,5 +3,5 @@ document.addEventListener('DOMContentLoaded', () => {
     M.Materialbox.init(imgLightBox, {
         inDuration: 500,
         outDuration: 300,
-    })
+    });
    });
