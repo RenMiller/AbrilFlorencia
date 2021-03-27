@@ -4,4 +4,4 @@ document.addEventListener('DOMContentLoaded', () => {
         inDuration: 500,
         outDuration: 300,
     });
-   });
+   }); 
