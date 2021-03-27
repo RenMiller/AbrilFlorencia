@@ -93,7 +93,7 @@ header .textos-header {
 
 /* About us */
 .vermas {
-    margin-top: -38%;
+    margin-top: 0%;
     position: relative;
     z-index: 9px;
 }
@@ -104,8 +104,8 @@ header .textos-header {
 }
 
 .flechita{
-    margin-top: -5%;
-    margin-left: 47.6%;
+    margin-top: 0%;
+    margin-left: 49%;
     position: relative;
     z-index: 8px;
 } 
