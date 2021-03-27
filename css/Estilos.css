@@ -118,21 +118,6 @@ header .textos-header {
     position: relative;
 }
 
-img[src$="galeria8.jpg"] {
-    box-shadow: none;
-}
-
-img[src$="galeria7.jpg"] {
-    box-shadow: none;
-}
-
-img[src$="galeria6.jpg"] {
-    box-shadow: none;
-}
-
-img[src$="galeria5.jpg"] {
-    box-shadow: none;
-}
 .galeria .col {
     margin-bottom: 20px;
     position: relative;
