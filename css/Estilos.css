@@ -194,6 +194,8 @@ header .textos-header {
 .cards .card>.contenido-texto-card p {
     font-weight: 300;
     padding-top: 5px;
+    font-size: 13px;
+    text-shadow: #000000;
 }
 
 /* Our Team */
@@ -437,4 +439,8 @@ footer {
     .Titulo-final {
         font-size: 20px;
     }
+    .vermas{
+        margin-right: 23%;
+    }
+}
 }
